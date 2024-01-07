@@ -13,11 +13,31 @@
         iii) INSIGHT Earned
     e. Links
 ```
+
+## Why?
+Wanted to test would i be able to create an App *Peacefully* using AI (ChatGPT, Bard, Bing). So,as to Gain Insights about the future.
+
+
 ## How To Install
 
 ### Just Install the executive:-
 OR    
- Download this whole repo and do the compiling stuff urself!
+ 1.Download this whole repo and do the compiling stuff urself! 
+2. unzip and enter the directory
+3. Download python 3.12.0
+4. After installation, do the below 
+```
+python -m venv .venv
+.venv\Scripts\Activate
+
+pip uninstall pathlib
+pip install pyinstaller
+python -m pytinstalled gui.py
+
+```
+The executable will be stored at the newly created dist folder. 
+Locate it. 
+*Alternatively,* run the gui.py to execute the script. 
 
 ## App
 
@@ -26,11 +46,10 @@ As said, it is very simple app. All you have to do is enter 5 numbers all less t
 Then Submit it and then it is will check whether it is correct or not, your input
 Then Select the Type of Algorithm you want to execute and the Visualisation Begins.
 
+
 ### Gallery
  FOR VIDEO :- Navigate to Media Files Folder    
 
-## Why?
-Wanted to test would i be able to create an App *Peacefully* using AI (ChatGPT, Bard, Bing). So,as to Gain Insights about the future.
 
 ## EXPERIENCE
 
