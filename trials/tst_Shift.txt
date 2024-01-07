@@ -1,0 +1,10 @@
+import altair as alt
+from altair import display
+
+# ... (rest of the code from the previous response)
+
+# Create the chart with shifted bars
+chart = alt.layer(base, bars).transform_calculate(shift)
+
+# Display the chart in a web browser
+display.serve(chart, open_browser=True)
