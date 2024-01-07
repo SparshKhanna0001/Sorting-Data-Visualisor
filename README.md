@@ -29,12 +29,17 @@ For video: Navigate to the Media Files Folder.
 - Used existing Sorting Algorithms from GitHub (initially planned to use those provided by WilliamFiset).
 - Attempted a Java-based module for GUI with moving bars displaying sorting algorithms.
 
-### What Happened
-- Bard guided the action plan.
-    - Suggested libraries that weren't beginner-friendly, pushing me to learn.
-    - Chose D3, a JavaScript-based solution, but it created a web app, not a GUI.
-    - Had to shift focus for a GUI-based solution. Failed, requiring a new approach.
-    - Explored Python solutions, eventually settling for Tkinter after various trials.
+#### What Happened
+- **Bard's Guidance:** The journey commenced with Bard's advice, suggesting libraries that felt like a maze of complexity. Despite the uphill battle, delving into these libraries was a learning experience in itself, navigating through a sea of documentation and challenges.
+    - _D3 Experiment:_ Initially, the D3 module seemed like the golden ticket, only to spring a surprise – it churned out a web app while I fervently craved a GUI. *The frustration was palpable!*
+        - *Shift to Python:* With a heavy heart, I bid farewell to the Java to Python API concept, as the search yielded a disappointing outcome. *Cue dramatic sighs and a hint of exasperation.*
+    - _New Approach:_ A glimmer of hope emerged as I stumbled upon a Python-based forked repo – a saving grace amidst the turbulent seas of trial and error.
+    - **Module Trials:**
+        1. **PyPlot:** The initial excitement was met with a shortfall in the animation department. *The disappointment was crushing.*
+        2. **Altair:** Bard spoke highly of its SHIFT feature, but alas, it failed to harmonize with my animation aspirations. *A twist in the plot, yet again!*
+        3. **Matplotlib & Turtle:** Playing the field between Matplotlib and Turtle, eventually, my heart was won over by Turtle's charm. Embracing Tkinter despite its tumultuous journey through errors and trials. *A rollercoaster ride of frustration and determination.*
+            - _Tkinter-Turtle Drama:_ Attempting the integration was akin to an emotional rollercoaster, swinging between frustration and the occasional burst of laughter amidst the chaotic coding adventure. *Laughter, indeed, to cope with the challenging moments!*
+
 
 ### INSIGHTS Earned
 - Relying solely on AI for app creation was tough; learning and self-planning are key.
