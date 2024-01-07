@@ -12,7 +12,7 @@
         ii) What Happened
         iii) INSIGHT Earned
     e. Links
-
+```
 ## How To Install
 
 ### Just Install the executive:-
