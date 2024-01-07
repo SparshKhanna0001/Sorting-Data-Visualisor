@@ -32,7 +32,7 @@ python -m venv .venv
 
 pip uninstall pathlib
 pip install pyinstaller
-python -m pytinstalled gui.py
+python -m pytinstaller gui.py
 
 ```
 The executable will be stored at the newly created dist folder. 
