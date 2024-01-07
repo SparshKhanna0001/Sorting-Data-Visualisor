@@ -1,7 +1,7 @@
 # Challenge : To Create a Sorting Algorithm Visualisor w/o Prior Work Experience in GUI, Noob
 
-```
-SECTION:-
+
+```SECTION:-
     a. WHY
     b. How To Install
     c. App 
@@ -12,11 +12,11 @@ SECTION:-
         ii) What Happened
         iii) INSIGHT Earned
     e. Links
-```
+
 ## How To Install
 
 ### Just Install the executive:-
-                            '''OR'''
+OR    
  Download this whole repo and do the compiling stuff urself!
 
 ## App
